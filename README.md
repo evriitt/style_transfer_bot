@@ -10,4 +10,5 @@ Telegram bot с функциями переноса художественног
 Адрес бота: @artstyle_transfer_bot (https://t.me/artstyle_transfer_bot)
 
 Запуск:
-Запустить art_style_bot.ipynb и перейти к боту
+Получить токен от https://t.me/BotFather
+Запустить art_style_bot.ipynb, указав токен и перейти к боту
