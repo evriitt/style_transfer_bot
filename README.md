@@ -3,7 +3,7 @@ DLS fall23
 
 Telegram bot с функциями переноса художественного стиля с загруженного изображения. 
 
-Используются предобученные модели из прокта [https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/
+Используются предобученные модели из прокта https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/
 
 Всего доступно 4 стиля: "Клод Моне", "Поль Сезанн", "Укиё-э", "Ван Гог".
 
