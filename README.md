@@ -13,5 +13,4 @@ Telegram bot с функциями переноса художественног
 
 1. Получить токен от https://t.me/BotFather
 2. Открыть блокнот и заполнить TOKEN: https://colab.research.google.com/drive/1vpkU9ZFblbPtjB660AQ1DNuoZkIldwu0?usp=sharing
-3. Запустить art_style_bot.ipynb, указав токен и перейти к боту
-4. Запустить бота https://t.me/artstyle_transfer_bot
+3. Запустить бота https://t.me/artstyle_transfer_bot
