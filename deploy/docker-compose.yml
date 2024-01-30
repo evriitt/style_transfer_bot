@@ -1,0 +1,10 @@
+version: "3"
+services:
+  tg_bot:
+    # if something fails or the server is restarted, the container will restart
+    restart: always 
+    container_name: tg_bot
+    image: tg_bot
+    build: 
+      # build the iris clasifier image from the Dockerfile in the current directory
+      context: . 
