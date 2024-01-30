@@ -27,7 +27,7 @@ import os
 
 subprocess.run("cd pytorch-CycleGAN-and-pix2pix/", shell=True)
 
-TOKEN = '6656785887:AAFhKHuVhSTMilM94kgHAYSOK6EsRAeyNho'
+TOKEN = ''
 
 
 LOG_FILENAME = 'bot.log'
