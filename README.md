@@ -10,44 +10,34 @@ Telegram бот для переноса стиля с загруженных и�
 
 ### Клод Моне
 
-![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/49d2c7e8-2288-470b-af32-07457c8318fa)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c2bd6555-705c-4f41-8dab-efa82052061c)
-
 ![photo_2024-02-01_15-21-16](https://github.com/evriitt/style_transfer_bot/assets/130037283/9e0d2f01-05af-4741-98b5-bec8e26eb952)  ![photo_2024-02-01_15-21-22](https://github.com/evriitt/style_transfer_bot/assets/130037283/d02a4322-6018-4e01-91f3-df45043af42b)
 
+![photo_2024-02-01_17-15-17](https://github.com/evriitt/style_transfer_bot/assets/130037283/f645d9fb-ebef-4967-8530-435c4413824b)  ![photo_2024-02-01_17-15-25](https://github.com/evriitt/style_transfer_bot/assets/130037283/27b1b32a-6d59-4b3e-bc1b-d8ddeb05987a)
 
-
-
-![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/31ceb130-604b-46d1-8891-9119d9cdae25)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c229c645-7d6e-49ad-a21b-22ad3577c9f0)
-
-![photo_2024-02-01_15-13-15](https://github.com/evriitt/style_transfer_bot/assets/130037283/679ea465-ac7e-4368-9bbd-ca6cd6c0ebd5)  ![photo_2024-02-01_15-14-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/6b17963a-ceb9-49d2-92c6-1635adccaa90)
-
-![photo_2024-02-01_15-21-16](https://github.com/evriitt/style_transfer_bot/assets/130037283/d492efe6-d5ca-4bfb-b726-4e1ca119116a)  ![photo_2024-02-01_15-21-22](https://github.com/evriitt/style_transfer_bot/assets/130037283/b526e5a5-6c60-4a07-87ac-8e88cd4aebb3)
 
 ### Поль Сезанн
-![photo_2024-02-01_15-06-00](https://github.com/evriitt/style_transfer_bot/assets/130037283/62016b3c-9f16-41bb-9b06-0813717b02a4)  ![photo_2024-02-01_15-06-05](https://github.com/evriitt/style_transfer_bot/assets/130037283/369d96c6-adfe-4160-b333-58e7d394de6b)
+![photo_2024-02-01_14-59-43](https://github.com/evriitt/style_transfer_bot/assets/130037283/7e9d6a12-4c69-4253-99a3-aa22668f686c)  ![photo_2024-02-01_14-59-55](https://github.com/evriitt/style_transfer_bot/assets/130037283/e9cee558-bd25-4c38-8142-61e9b0a65c0c)
 
-![photo_2024-02-01_14-59-43](https://github.com/evriitt/style_transfer_bot/assets/130037283/cbaf5439-377e-496a-99ec-4a31d1406f8a)  ![photo_2024-02-01_14-59-55](https://github.com/evriitt/style_transfer_bot/assets/130037283/9ae46fab-49bd-4d4e-8242-0cfd92b01b90)
+![photo_2024-02-01_15-01-26](https://github.com/evriitt/style_transfer_bot/assets/130037283/8f9b59f8-0678-4d0d-9e7b-3119032b25fc)  ![photo_2024-02-01_15-01-33](https://github.com/evriitt/style_transfer_bot/assets/130037283/333a27da-0e90-4fcf-9c72-be88a2f11187)
 
-![photo_2024-02-01_15-01-26](https://github.com/evriitt/style_transfer_bot/assets/130037283/91847009-3c90-456d-b609-edf235cad73b)  ![photo_2024-02-01_15-01-33](https://github.com/evriitt/style_transfer_bot/assets/130037283/e92dc0b3-009b-431b-9d6e-bb7b1f09c420)
+![photo_2024-02-01_15-06-00](https://github.com/evriitt/style_transfer_bot/assets/130037283/70537262-f273-4e64-b06e-f47f7e6dba3e)  ![photo_2024-02-01_15-06-05](https://github.com/evriitt/style_transfer_bot/assets/130037283/9e3151af-ec10-410c-b299-1b344fb45f42)
+
 
 
 ### Укиё-э
-![photo_2024-02-01_15-36-21](https://github.com/evriitt/style_transfer_bot/assets/130037283/a3851a2a-d4b4-4cdf-b898-b6e8ba11d3b7)  ![photo_2024-02-01_15-36-34](https://github.com/evriitt/style_transfer_bot/assets/130037283/cabc19f1-8299-4c72-87bd-0dab5af10189)
+![photo_2024-02-01_15-48-09](https://github.com/evriitt/style_transfer_bot/assets/130037283/8c51064e-7d0c-41c4-a292-5027a5942805)  ![photo_2024-02-01_15-48-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/bfd92c1d-66a1-48a0-aa11-6a3aa9fdd74d)
 
-![photo_2024-02-01_15-48-09](https://github.com/evriitt/style_transfer_bot/assets/130037283/eae79bd8-a474-4e7b-807a-b14fd2b89254)  ![photo_2024-02-01_15-48-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/eb2793f3-ad36-4d44-8fc4-2537a0cb4e30)
+![photo_2024-02-01_15-36-21](https://github.com/evriitt/style_transfer_bot/assets/130037283/adcbbbd1-d0f9-4606-b1aa-77ff85f6876c)  ![photo_2024-02-01_15-36-34](https://github.com/evriitt/style_transfer_bot/assets/130037283/f28f12d3-a46b-44a0-8011-49dae0f39dcd)
 
-![photo_2024-02-01_15-42-32](https://github.com/evriitt/style_transfer_bot/assets/130037283/0fa9f8a3-439b-40e2-8746-da7b8141e70f)  ![photo_2024-02-01_15-42-36](https://github.com/evriitt/style_transfer_bot/assets/130037283/5dd44d53-e926-4231-9c72-321a956a79a3)
+![photo_2024-02-01_17-13-32](https://github.com/evriitt/style_transfer_bot/assets/130037283/309a5f60-c154-4bc2-9b1b-5d198f563d4a)  ![photo_2024-02-01_17-13-48](https://github.com/evriitt/style_transfer_bot/assets/130037283/4979793d-0d6e-4b30-911b-0d7299f33671)
 
 
 
 
 ### Ван Гог
-![photo_2024-02-01_15-31-25](https://github.com/evriitt/style_transfer_bot/assets/130037283/497f305c-19f3-4b8c-8ab8-65b3b0bbf0f0)  ![photo_2024-02-01_15-31-30](https://github.com/evriitt/style_transfer_bot/assets/130037283/d0d96c90-ff53-4033-bb95-56db9514f339)
+![photo_2024-02-01_15-28-35](https://github.com/evriitt/style_transfer_bot/assets/130037283/e4fc94f8-30ed-4ccc-93c6-9a5617bb6f7b)  ![photo_2024-02-01_15-28-48](https://github.com/evriitt/style_transfer_bot/assets/130037283/00337d79-8d78-4a71-981e-25aa5c9fa76c)
 
-![photo_2024-02-01_15-28-35](https://github.com/evriitt/style_transfer_bot/assets/130037283/9eeb8d35-c0b4-4745-9f4a-e276341af1cb)  ![photo_2024-02-01_15-28-48](https://github.com/evriitt/style_transfer_bot/assets/130037283/532a8ad0-8a35-4074-9e83-d8cca61031c5)
-
-![photo_2024-02-01_15-37-51](https://github.com/evriitt/style_transfer_bot/assets/130037283/b16731d2-54f5-4a16-ba53-82e11b734574)  ![photo_2024-02-01_15-38-07](https://github.com/evriitt/style_transfer_bot/assets/130037283/1b95dcf4-726f-4183-8a96-4ab1ca6c0800)
-
+![photo_2024-02-01_15-37-51](https://github.com/evriitt/style_transfer_bot/assets/130037283/4af60cb6-0302-4200-81f0-1b7d2aca69f8)  ![photo_2024-02-01_15-38-07](https://github.com/evriitt/style_transfer_bot/assets/130037283/5a5d03e8-9563-4878-acd1-a087edb0efad)
 
 
 
