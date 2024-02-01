@@ -10,7 +10,9 @@ Telegram бот для переноса стиля с загруженных и�
 
 ### Клод Моне
 
-![photo_2024-02-01_15-13-15](https://github.com/evriitt/style_transfer_bot/assets/130037283/499c83ca-6d19-4ebc-8fec-a5479232de1a)  ![photo_2024-02-01_15-14-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/6fe65304-f193-485c-9a3a-9ffe8b21a417)
+![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/49d2c7e8-2288-470b-af32-07457c8318fa)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c2bd6555-705c-4f41-8dab-efa82052061c)
+
+
 
 
 ![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/31ceb130-604b-46d1-8891-9119d9cdae25)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c229c645-7d6e-49ad-a21b-22ad3577c9f0)
