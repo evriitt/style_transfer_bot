@@ -9,8 +9,14 @@ Telegram бот для переноса стиля с загруженных и�
 ## Примеры работы:
 
 ### Клод Моне
-![Примеры](examples.jpg)
-![photo_2024-02-01_15-13-15](https://github.com/evriitt/style_transfer_bot/assets/130037283/de52a0ef-8dd4-44e6-a3da-b39b2daacd47)  ![photo_2024-02-01_15-14-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/f4a37aa9-f503-4c05-be47-d3a67c2a574e)
+![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/31ceb130-604b-46d1-8891-9119d9cdae25)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c229c645-7d6e-49ad-a21b-22ad3577c9f0)
+
+![photo_2024-02-01_15-13-15](https://github.com/evriitt/style_transfer_bot/assets/130037283/679ea465-ac7e-4368-9bbd-ca6cd6c0ebd5)  ![photo_2024-02-01_15-14-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/6b17963a-ceb9-49d2-92c6-1635adccaa90)
+
+![photo_2024-02-01_15-21-16](https://github.com/evriitt/style_transfer_bot/assets/130037283/d492efe6-d5ca-4bfb-b726-4e1ca119116a)  ![photo_2024-02-01_15-21-22](https://github.com/evriitt/style_transfer_bot/assets/130037283/b526e5a5-6c60-4a07-87ac-8e88cd4aebb3)
+
+
+
 
 
 ### Поль Сезанн
