@@ -12,6 +12,8 @@ Telegram бот для переноса стиля с загруженных и�
 
 ![photo_2024-02-01_15-17-08](https://github.com/evriitt/style_transfer_bot/assets/130037283/49d2c7e8-2288-470b-af32-07457c8318fa)  ![photo_2024-02-01_15-17-13](https://github.com/evriitt/style_transfer_bot/assets/130037283/c2bd6555-705c-4f41-8dab-efa82052061c)
 
+![photo_2024-02-01_15-21-16](https://github.com/evriitt/style_transfer_bot/assets/130037283/9e0d2f01-05af-4741-98b5-bec8e26eb952)  ![photo_2024-02-01_15-21-22](https://github.com/evriitt/style_transfer_bot/assets/130037283/d02a4322-6018-4e01-91f3-df45043af42b)
+
 
 
 
