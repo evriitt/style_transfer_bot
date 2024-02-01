@@ -47,7 +47,7 @@ Telegram бот для переноса стиля с загруженных и�
 
 ### Запуск в Google Colab:
 1. Получите свой TG_BOT_TOKEN от [BotFather](https://t.me/BotFather).
-2. Откройте блокнот и заполните TG_BOT_TOKEN: [Colab Notebook](https://colab.research.google.com/drive/1vpkU9ZFblbPtjB660AQ1DNuoZkIldwu0?usp=sharing).
+2. Откройте [блокнот](https://colab.research.google.com/drive/1vpkU9ZFblbPtjB660AQ1DNuoZkIldwu0?usp=sharing) и заполните TG_BOT_TOKEN.
 3. Запустите бота: [artstyle_transfer_bot](https://t.me/artstyle_transfer_bot).
 
 ### Запуск локально:
