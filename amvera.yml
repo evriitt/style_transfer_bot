@@ -6,6 +6,6 @@ meta:
 build:
   requirementsPath: requirements.txt
 run:
-  scriptName: art_style_bot_ipynb.py
+  scriptName: app.py
   persistenceMount: /data
   containerPort: 80
