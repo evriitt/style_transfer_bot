@@ -1,4 +1,5 @@
 # style_transfer_bot
+![скрин](https://github.com/evriitt/style_transfer_bot/assets/130037283/873ebe69-d6ca-4c42-8f43-d3faf01d87e8) мой тг: evriitt, stepic: 528550284, развернут на https://cloud.amvera.ru/
 
 
 Telegram бот для переноса стиля с загруженных изображений.
